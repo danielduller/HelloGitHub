@@ -1,2 +1,4 @@
 # HelloGitHub
-My 1st try
+# Erstes GitHub Repository
+### Lehrveranstaltung: PR1
+### Name: Daniel Duller
